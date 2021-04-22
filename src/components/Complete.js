@@ -288,7 +288,7 @@ export class Complete extends React.Component {
             method:'POST', 
             headers: {
               'Content-Type': 'application/x-www-form-urlencoded',
-              'Authorization': 'Basic ' + btoa('root:' + pass),
+              // 'Authorization': 'Basic ' + btoa('root:' + pass),
               // "Access-Control-Allow-Headers" : "Content-Type",
               // "Access-Control-Allow-Origin": "*",
               // "Access-Control-Allow-Methods": "POST"
@@ -313,7 +313,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -343,7 +343,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -373,7 +373,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -403,7 +403,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -433,7 +433,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -463,7 +463,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -493,7 +493,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -523,7 +523,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -553,7 +553,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -583,7 +583,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -613,7 +613,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -643,7 +643,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -673,7 +673,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -703,7 +703,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -733,7 +733,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -763,7 +763,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -793,7 +793,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -823,7 +823,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -853,7 +853,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
@@ -884,7 +884,7 @@ export class Complete extends React.Component {
                     method:'POST', 
                     headers: {
                       'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                      'Authorization': 'Basic ' + btoa('root:' + pass),
+                      // 'Authorization': 'Basic ' + btoa('root:' + pass),
                       // "Access-Control-Allow-Headers" : "Content-Type",
                       // "Access-Control-Allow-Origin": "*",
                       // "Access-Control-Allow-Methods": "POST"
